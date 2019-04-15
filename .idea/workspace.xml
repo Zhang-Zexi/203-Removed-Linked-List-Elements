@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7431ad70-c951-4c9c-af1f-0df53367751c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +26,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1076" />
-          <entry key="txt" value="36" />
+          <entry key="java" value="1094" />
+          <entry key="txt" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1076" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="JAVA" value="1094" />
+          <entry key="PLAIN_TEXT" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="243">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -175,11 +175,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555312955458" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555313293624" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
@@ -251,7 +254,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554823579749</updated>
       <workItem from="1554823581911" duration="1625000" />
-      <workItem from="1555293948625" duration="3237000" />
+      <workItem from="1555293948625" duration="3518000" />
     </task>
     <task id="LOCAL-00001" summary="修改成leetcode提交形式">
       <created>1554824773645</created>
@@ -274,11 +277,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555296708772</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="利用递归的思想，来解决删除指定元素的问题">
+      <created>1555313000107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555313000107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4862000" />
+    <option name="totallyTimeSpent" value="5143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -326,7 +336,8 @@
     <MESSAGE value="修改成leetcode提交形式" />
     <MESSAGE value="添加测试用例" />
     <MESSAGE value="实现一个简单的递归函数，数字求和" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现一个简单的递归函数，数字求和" />
+    <MESSAGE value="利用递归的思想，来解决删除指定元素的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="利用递归的思想，来解决删除指定元素的问题" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ListNode.java">
@@ -367,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="243">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
