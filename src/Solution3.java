@@ -28,7 +28,7 @@ class Solution3 {
         ListNode head = new ListNode(nums);
         System.out.println(head);
 
-        ListNode res = (new Solution()).removeElements(head, 6);
+        ListNode res = (new Solution3()).removeElements(head, 6);
         System.out.println(res);
     }
 };
